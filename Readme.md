@@ -78,3 +78,5 @@ This will give you the IP address use the IPv4 Address.
 3. The webpage will display the connected ESP32 devices and update every 5 seconds.
 
 ## Video
+
+Link - https://drive.google.com/file/d/1O0ooesn-s1QsV-QK2stBDI40tPh7Fo9o/view?usp=sharing
